@@ -1,0 +1,12 @@
+asgiref @ file:///tmp/build/80754af9/asgiref_1625643473416/work
+certifi==2021.10.8
+Django @ file:///tmp/build/80754af9/django_1625585912945/work
+djangorestframework==3.13.1
+gunicorn==20.1.0
+Pillow==8.4.0
+psycopg2 @ file:///C:/ci/psycopg2_1612298766762/work
+pytz==2021.3
+sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1631814937681/work
+whitenoise==6.0.0
+wincertstore==0.2
